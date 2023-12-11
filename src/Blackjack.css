@@ -1,0 +1,22 @@
+.blackjack-container {
+    background-color: #00796b;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  .cards-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .card-image {
+    width: 150px;
+    height: 220px;
+    margin: 10px;
+  }
+  
